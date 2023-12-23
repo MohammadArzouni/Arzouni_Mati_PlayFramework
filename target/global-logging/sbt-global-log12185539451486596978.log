@@ -1,0 +1,12 @@
+[debug] > Exec(all {file:/C:/Users/Mhd/Desktop/play-java-rest-api-example/}gatling/products {file:/C:/Users/Mhd/Desktop/play-java-rest-api-example/}gatling/test:products {file:/C:/Users/Mhd/Desktop/play-java-rest-api-example/}root/products {file:/C:/Users/Mhd/Desktop/play-java-rest-api-example/}root/test:products, None, None)
+[debug] Evaluating tasks: gatling / Compile / products, gatling / Test / products, Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-rest-api-example
+[info] compiling 2 Scala sources to C:\Users\Mhd\Desktop\play-java-rest-api-example\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Exporting web-assets-test:play-java-rest-api-example
+[debug] Forcing garbage collection...
+[success] Total time: 10 s, completed 23 Dec 2023, 15:59:01
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

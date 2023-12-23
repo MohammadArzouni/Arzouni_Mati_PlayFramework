@@ -1,0 +1,9 @@
+[debug] > Exec(all {file:/C:/Users/Mhd/Desktop/play-java-rest-api-example/}root/products {file:/C:/Users/Mhd/Desktop/play-java-rest-api-example/}root/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-rest-api-example
+[debug] Exporting web-assets-test:play-java-rest-api-example
+[success] Total time: 3 s, completed 23 Dec 2023, 15:59:06
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

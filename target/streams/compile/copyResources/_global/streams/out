@@ -1,0 +1,6 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\Mhd\Desktop\play-java-rest-api-example\conf\application.conf,C:\Users\Mhd\Desktop\play-java-rest-api-example\target\scala-2.13\classes\application.conf)
+[debug] 	(C:\Users\Mhd\Desktop\play-java-rest-api-example\conf\logback.xml,C:\Users\Mhd\Desktop\play-java-rest-api-example\target\scala-2.13\classes\logback.xml)
+[debug] 	(C:\Users\Mhd\Desktop\play-java-rest-api-example\conf\posts.routes,C:\Users\Mhd\Desktop\play-java-rest-api-example\target\scala-2.13\classes\posts.routes)
+[debug] 	(C:\Users\Mhd\Desktop\play-java-rest-api-example\conf\routes,C:\Users\Mhd\Desktop\play-java-rest-api-example\target\scala-2.13\classes\routes)
+[debug] 	(C:\Users\Mhd\Desktop\play-java-rest-api-example\conf\META-INF\persistence.xml,C:\Users\Mhd\Desktop\play-java-rest-api-example\target\scala-2.13\classes\META-INF\persistence.xml)

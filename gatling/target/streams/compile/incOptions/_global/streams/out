@@ -1,0 +1,5 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\Mhd\Desktop\play-java-rest-api-example\gatling\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\Mhd\Desktop\play-java-rest-api-example\gatling\target\scala-2.13\classes.bak
+[debug] Removing the temporary directory used for backing up class files: C:\Users\Mhd\Desktop\play-java-rest-api-example\gatling\target\scala-2.13\classes.bak
